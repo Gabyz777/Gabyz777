@@ -23,6 +23,7 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
     </a>
     # Redes sociais
     </p>
+    <p align="left">
         <a href="https://www.linkedin.com/in/gabrielly-dias-mendes-4ba71834b">
         <img
             alt="Seguidores"
