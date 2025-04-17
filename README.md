@@ -122,7 +122,7 @@ Com o término do curso, espero conseguir um estágio como desenvolvedor para ap
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=gabyz777&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=GabriellyDias&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
   />
 
 <img
