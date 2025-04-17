@@ -31,6 +31,18 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
         <img
              <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
+ </a>
+        <a href="">
+        <img
+            alt="Seguidores"
+            title="Me siga no Instagram"
+             <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+        <a href="">
+        <img
+            alt="Seguidores"
+            title="Me siga no TikTok"
+             <img src= "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </p>
 
 ---
@@ -94,14 +106,13 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
 - **Lógica de Programação e Algoritmos**.
 - **Sistemas Operacionais**.
-- ****.
-- ****.
-- ****.
+- **Levantamento de Requisitos**.
+- **Arquiteturas de Redes com IoT**.
 
 
 ## 🎯 Expectativas para o Futuro
 
-[Exemplo]Com o término do curso, espero conseguir um estágio como desenvolvedor para aplicar o que aprendi em projetos reais. Meu objetivo é me tornar um...
+Com o término do curso, espero conseguir um estágio como desenvolvedor para aplicar o que aprendi em projetos reais, e melhorar cada vez mais.
 
 ### 📊 Estatísticas
 
