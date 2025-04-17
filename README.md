@@ -19,8 +19,12 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
             alt="Seguidores"
             title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/Gabz777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-            </a>
-    # Redes sociais
+
+ </a>
+
+ # Redes Sociais
+ </p>
+ <p align="left">
     </p>
     <p align="left">
         <a href="https://www.linkedin.com/in/gabrielly-dias-mendes-4ba71834b">
