@@ -21,6 +21,7 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
             src="https://custom-icon-badges.demolab.com/github/followers/Gabz777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    ## Redes sociais
         <a href="https://www.linkedin.com/in/gabrielly-dias-mendes-4ba71834b">
         <img
             alt="Seguidores"
@@ -117,7 +118,7 @@ Com o término do curso, espero conseguir um estágio como desenvolvedor para ap
   <img
     align="left"
     alt="GitHub Stats"
-    height="150"
+    height="130"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=GabriellyDias&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
   />
@@ -125,7 +126,7 @@ Com o término do curso, espero conseguir um estágio como desenvolvedor para ap
 <img
       align="left"
       alt="GitHub Stats"
-      height="150"
+      height="120"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyz777&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
