@@ -37,12 +37,6 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
             alt="Seguidores"
             title="Me siga no Instagram"
              <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-        <a href="">
-        <img
-            alt="Seguidores"
-            title="Me siga no TikTok"
-             <img src= "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </p>
 
 ---
