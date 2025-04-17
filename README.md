@@ -120,7 +120,7 @@ Com o término do curso, espero conseguir um estágio como desenvolvedor para ap
   <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="150"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=GabriellyDias&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
   />
@@ -128,7 +128,7 @@ Com o término do curso, espero conseguir um estágio como desenvolvedor para ap
 <img
       align="left"
       alt="GitHub Stats"
-      height="200"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyz777&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
