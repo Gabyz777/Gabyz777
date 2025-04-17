@@ -27,6 +27,10 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
             title="Me siga no Linkedin"
              <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+     <a href = "mailto:gabriellydiasmendes@gmail.com">
+        <img
+             <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
 </p>
 
 ---
