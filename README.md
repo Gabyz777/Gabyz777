@@ -3,7 +3,7 @@
 **`Desenvolvedora de Sistema`**
 
 
-Meu nome é Gabrielly, sou estudante de Desenvolvimento de Sistemas no Senai e moro em São Paulo. Estou mergulhando no universo da tecnologia, buscando sempre aprender e aprimorar meus conhecimentos na área de desenvolvimento.
+Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI e moro em São Paulo. Estou mergulhando no universo da tecnologia, buscando sempre aprender e aprimorar meus conhecimentos na área de desenvolvimento.
 
 <p align="left">
     </a>
