@@ -23,27 +23,23 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
  </a>
 
  # Redes Sociais
- </p>
- <p align="left">
-    </p>
-    <p align="left">
-        <a href="https://www.linkedin.com/in/gabrielly-dias-mendes-4ba71834b">
-        <img
-            alt="Seguidores"
-            title="Me siga no Linkedin"
-             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-     <a href = "mailto:gabriellydiasmendes@gmail.com">
-        <img
-             <img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<div align="left" style="margin: 30px 0;">
+  <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b" target="_blank">
+    <img src="https://img.icons8.com/ios/35/FF69B4/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="mailto:helowzx@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios/35/FF69B4/gmail--v1.png" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/heloowzx2" target="_blank">
+    <img src="https://img.icons8.com/ios/35/FF69B4/instagram-new--v1.png" alt="Instagram">
+  </a>
+  <a href="https://tiktok.com/@heloo.sep" target="_blank">
+    <img src="https://img.icons8.com/ios/35/FF69B4/tiktok--v1.png" alt="TikTok">
+  </a>
+</div>
 
- </a>
-        <a href="">
-        <img
-            alt="Seguidores"
-            title="Me siga no Instagram"
-             <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 ---
 
