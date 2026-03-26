@@ -49,95 +49,34 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left"
-    alt="Node.js"
-    title="Node.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-   />
-   <img
-    align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    />
-    <img
-    align="left"
-    alt="postgresql/"
-    title="postgresql"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-    />
-    
-<br/>
+![My Skills](https://skillicons.dev/icons?i=js,react,python,git,html,css)
+
 <br/>
 
-## 🎓 Onde estou Estudando?
-
-Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
-- **Lógica de Programação e Algoritmos**.
-- **Sistemas Operacionais**.
-- **Levantamento de Requisitos**.
-- **Arquiteturas de Redes com IoT**.
-- **Programação Back-End**.
-- **Linguagem de Marcação**.
-- **Banco de Dados**.
-- **Projetos de Software**.
-
-## 🎯 Expectativas para o Futuro
-
-Com o término do curso, espero conseguir um estágio como desenvolvedor para aplicar o que aprendi em projetos reais, e melhorar cada vez mais.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 ### 📊 Estatísticas
+<div>
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=helozinha1&show_icons=true&theme=omni&hide=contribs,issues&locale=pt-br">
+    
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helozinha1&layout=compact&theme=omni&locale=pt-br">
+</a>
+</div>
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="130"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=GabriellyDias&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"
-  />
 
-<img
-      align="left"
-      alt="GitHub Stats"
-      height="120"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyz777&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
 
-</p>
+
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabyz777/gabyz777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabyz777/gabyz777/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabyz777/gabyz777/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helozinha1/helozinha1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helozinha1/helozinha1/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/helozinha1/helozinha1/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=helozinha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&locale=pt-br" />
+</p>
