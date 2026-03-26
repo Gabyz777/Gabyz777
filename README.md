@@ -4,18 +4,18 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 
 # 💜Redes Sociais
 <div align="left" style="margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/gabrielly-dias-mendes-4ba71834b" target="_blank">
-    <img src="https://img.icons8.com/ios/35/DA70D6/linkedin.png" alt="LinkedIn">
-  </a>
-  <a href="mailto:gabriellydiasmendes@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios/35/DA70D6/gmail--v1.png" alt="Gmail">
-  </a>
-  <a href="https://instagram.com/gabrielly.diasz" target="_blank">
-    <img src="https://img.icons8.com/ios/35/DA70D6/instagram-new--v1.png" alt="Instagram">
-  </a>
-  <a href="https://tiktok.com/@gabs.diasz" target="_blank">
-    <img src="https://img.icons8.com/ios/35/DA70D6/tiktok--v1.png" alt="TikTok">
-  </a>
+  <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b" target="_blank">
+    <img src="https://img.icons8.com/ios/35/9370DB/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="mailto:helowzx@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios/35/9370DB/gmail--v1.png" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/heloowzx2" target="_blank">
+    <img src="https://img.icons8.com/ios/35/9370DB/instagram-new--v1.png" alt="Instagram">
+  </a>
+  <a href="https://tiktok.com/@heloo.sep" target="_blank">
+    <img src="https://img.icons8.com/ios/35/9370DB/tiktok--v1.png" alt="TikTok">
+  </a>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
@@ -32,9 +32,9 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 
 ### 📊 Estatísticas
 <div>
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Gabyz777&show_icons=true&theme=omni&hide=contribs,issues&locale=pt-br">
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Gabyz777&show_icons=true&hide=contribs,issues&locale=pt-br">
     
-<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabyz777&layout=compact&theme=omni&locale=pt-br">
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabyz777&layout=compact&locale=pt-br">
 </a>
 </div>
 
