@@ -57,7 +57,7 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 
 ### 📊 Estatísticas
 <div>
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=helozinha1&show_icons=true&theme=omni&hide=contribs,issues&locale=pt-br">
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Gabz777&show_icons=true&theme=omni&hide=contribs,issues&locale=pt-br">
     
 <img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helozinha1&layout=compact&theme=omni&locale=pt-br">
 </a>
