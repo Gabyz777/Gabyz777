@@ -4,16 +4,16 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 
 # 💜Redes Sociais
 <div align="left" style="margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/helloysa-rocha-dos-santos-16872034b" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielly-dias-mendes-4ba71834b" target="_blank">
     <img src="https://img.icons8.com/ios/35/9370DB/linkedin.png" alt="LinkedIn">
   </a>
-  <a href="mailto:helowzx@gmail.com" target="_blank">
+  <a href="mailto:gabriellydiasmendes@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios/35/9370DB/gmail--v1.png" alt="Gmail">
   </a>
-  <a href="https://instagram.com/heloowzx2" target="_blank">
+  <a href="https://instagram.com/gabrielly.diasz" target="_blank">
     <img src="https://img.icons8.com/ios/35/9370DB/instagram-new--v1.png" alt="Instagram">
   </a>
-  <a href="https://tiktok.com/@heloo.sep" target="_blank">
+  <a href="https://tiktok.com/@gabsz.diasz" target="_blank">
     <img src="https://img.icons8.com/ios/35/9370DB/tiktok--v1.png" alt="TikTok">
   </a>
 </div>
