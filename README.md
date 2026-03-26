@@ -1,26 +1,22 @@
-# 👩🏻‍💻 Gabrielly Dias
-
-**`Desenvolvedor de Sistemas`**
-
+# 👩‍💻 Gabrielly Dias
 
 Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI e moro em São Paulo. Estou mergulhando no universo da tecnologia, buscando sempre aprender e aprimorar meus conhecimentos na área de desenvolvimento.
 
- # Redes Sociais
+# 💜Redes Sociais
 <div align="left" style="margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/gabrielly-dias-mendes-4ba71834b" target="_blank">
-    <img src="https://img.icons8.com/ios/35/FF69B4/linkedin.png" alt="LinkedIn">
-  </a>
-  <a href="mailto:gabriellydiasmendes@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios/35/FF69B4/gmail--v1.png" alt="Gmail">
-  </a>
-  <a href="https://instagram.com/gabrielly.diasz" target="_blank">
-    <img src="https://img.icons8.com/ios/35/FF69B4/instagram-new--v1.png" alt="Instagram">
-  </a>
-  <a href="https://tiktok.com/@gabs.diasz" target="_blank">
-    <img src="https://img.icons8.com/ios/35/FF69B4/tiktok--v1.png" alt="TikTok">
-  </a>
+  <a href="https://www.linkedin.com/in/gabrielly-dias-mendes-4ba71834b" target="_blank">
+    <img src="https://img.icons8.com/ios/35/DA70D6/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="mailto:gabriellydiasmendes@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios/35/DA70D6/gmail--v1.png" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/gabrielly.diasz" target="_blank">
+    <img src="https://img.icons8.com/ios/35/DA70D6/instagram-new--v1.png" alt="Instagram">
+  </a>
+  <a href="https://tiktok.com/@gabs.diasz" target="_blank">
+    <img src="https://img.icons8.com/ios/35/DA70D6/tiktok--v1.png" alt="TikTok">
+  </a>
 </div>
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
