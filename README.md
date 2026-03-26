@@ -57,9 +57,9 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 
 ### 📊 Estatísticas
 <div>
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Gabz777&show_icons=true&theme=omni&hide=contribs,issues&locale=pt-br">
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=Gabyz777&show_icons=true&theme=omni&hide=contribs,issues&locale=pt-br">
     
-<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabz777&layout=compact&theme=omni&locale=pt-br">
+<img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabyz777&layout=compact&theme=omni&locale=pt-br">
 </a>
 </div>
 
@@ -67,9 +67,9 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helozinha1/Gabz777/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helozinha1/Gabz777/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabz777/Gabz777/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabyz777/Gabyz777/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabyz777/Gabyz777/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabyz777/Gabyz777/output/github-contribution-grid-snake.svg">
 </picture>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
@@ -78,5 +78,5 @@ Meu nome é Gabrielly Dias Mendes, estou cursando o Técnico em Desenvolvimento 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helozinha1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&locale=pt-br" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabyz777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&locale=pt-br" />
 </p>
